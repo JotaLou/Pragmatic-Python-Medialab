@@ -1,0 +1,1 @@
+Carpeta scripts de ayuda de los ejercicios del final de la presentación del curso. También incluye una subcarpeta con los ejercicios resueltos.
