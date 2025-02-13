@@ -1,4 +1,6 @@
-
+''' Ejercicio del cursillo pragmatic python impartido en MediaLab
+    Enunciado: Hacer un script que pulse un botón en pantalla cada segundo.
+'''
 import pyautogui
 import time
 
