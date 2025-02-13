@@ -4,4 +4,6 @@
 import pyautogui
 from time import sleep  # permite dormir el programa (en segundos)
 
+# Buscar: pyautogui.locateOnScreen
+# Buscar: pyautogui.click
 ''' Para evaluar constantemente usar un while true'''
