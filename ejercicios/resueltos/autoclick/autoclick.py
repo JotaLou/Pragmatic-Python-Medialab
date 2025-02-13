@@ -2,7 +2,7 @@
     Enunciado: Hacer un script que pulse un botón en pantalla cada segundo.
 '''
 import pyautogui
-import time
+from time import sleep
 
 filename = "Download"
 extension = ".png"
@@ -18,4 +18,4 @@ while True:
         pyautogui.moveTo(100, 200)
     finally:
         print("Waiting 1 second...")
-        time.sleep(1)
+        sleep(1)
