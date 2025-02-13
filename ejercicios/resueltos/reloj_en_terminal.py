@@ -1,5 +1,5 @@
 '''
-    Ejemplo de reloj
+    Ejemplo de reloj digital en terminal
 '''
 from time import sleep
 import datetime as dt

@@ -1,3 +1,7 @@
+''' Ejercicio del cursillo pragmatic python impartido en MediaLab
+    Enunciado: Hacer una aplicación de reloj digital
+'''
+
 import tkinter as tk
 import datetime
 
